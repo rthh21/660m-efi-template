@@ -40,7 +40,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>CPU objects C000-C00F as Processor objects (SSDTTime PLUG-ALT, 16 threads)</string>
+				<string>CPU objects C000-C00F as Processor objects (SSDTTime PLUG-ALT)</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -754,7 +754,7 @@
 				<string>17.0.0</string>
 				<key>Replace</key>
 				<data>
-				uAgAAAAA
+				uAYAAAAA
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -792,7 +792,7 @@
 				<string>19.0.0</string>
 				<key>Replace</key>
 				<data>
-				uggAAAAA
+				ugYAAAAA
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -830,7 +830,7 @@
 				<string>21.0.0</string>
 				<key>Replace</key>
 				<data>
-				uggAAACQ
+				ugYAAACQ
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -867,7 +867,7 @@
 				<string>22.4.0</string>
 				<key>Replace</key>
 				<data>
-				uggAAAA=
+				ugYAAAA=
 				</data>
 				<key>ReplaceMask</key>
 				<data>
